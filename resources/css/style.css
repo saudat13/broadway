@@ -1,3 +1,6 @@
+.header-site {
+  background-image: url ("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png")
+}
 body {
   background-color: purple;
   text-align: center;
@@ -15,4 +18,7 @@ h2 {
 h3 {
   font-size: 23px;
   font-weight: bold;
+}
+p {
+  font-size: 14px;
 }
